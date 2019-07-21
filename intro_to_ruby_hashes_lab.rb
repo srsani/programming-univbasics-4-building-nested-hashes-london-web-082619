@@ -1,4 +1,4 @@
-filter_parameter_loggingdef monopoly
+def monopoly
 	monopoly = {}
 
 end
